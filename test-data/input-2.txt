@@ -1,0 +1,4 @@
+#Create a ship with 1 torpedo for each stores
+GT4500,1,0,1,0
+TORPEDO,ALL # should be succes
+TORPEDO,SINGLE # should be fail becouse ALL fired all torpedo
